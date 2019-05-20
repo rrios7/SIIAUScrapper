@@ -1,0 +1,1724 @@
+[
+    {
+        "nrc": "154480",
+        "clave_materia": "I9909",
+        "nombre_materia": "ACTUADORES",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "17",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "AYALA HERNANDEZ, LUIS ERNESTO",
+        "horario": [
+            "1900-2055"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDT"
+        ],
+        "aula": [
+            "A002"
+        ]
+    },
+    {
+        "nrc": "138655",
+        "clave_materia": "I9878",
+        "nombre_materia": "ALGORITMIA",
+        "seccion": "D02",
+        "creditos": "8",
+        "cupos": "41",
+        "cupos_disponibles": "-1",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "SENCION ECHAURI, FELIPE",
+        "horario": [
+            "1100-1255"
+        ],
+        "dias": [
+            "L . I . . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A012"
+        ]
+    },
+    {
+        "nrc": "103850",
+        "clave_materia": "I9900",
+        "nombre_materia": "CONTROL I",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "8",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "ALDANA LOPEZ, CARLOS IVAN",
+        "horario": [
+            "0900-1055"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A016"
+        ]
+    },
+    {
+        "nrc": "124876",
+        "clave_materia": "I9902",
+        "nombre_materia": "CONTROL II",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "9",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "CRUZ ZAVALA, EMMANUEL",
+        "horario": [
+            "1500-1655"
+        ],
+        "dias": [
+            ". . I . V ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A002"
+        ]
+    },
+    {
+        "nrc": "145987",
+        "clave_materia": "I9903",
+        "nombre_materia": "CONTROL III",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "14",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "HERNANDEZ CASAS, ANGEL TONATIUH",
+        "horario": [
+            "1500-1655"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A014"
+        ]
+    },
+    {
+        "nrc": "153352",
+        "clave_materia": "I9904",
+        "nombre_materia": "CONTROL IV",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "16",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "NU\u00d1O ORTEGA, EMMANUEL",
+        "horario": [
+            "1300-1455"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A016"
+        ]
+    },
+    {
+        "nrc": "154481",
+        "clave_materia": "I9889",
+        "nombre_materia": "DISE\u00d1O DE INTERFACES",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "13",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "AYALA HERNANDEZ, LUIS ERNESTO",
+        "horario": [
+            "1700-1855"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDT"
+        ],
+        "aula": [
+            "A011"
+        ]
+    },
+    {
+        "nrc": "143400",
+        "clave_materia": "I9890",
+        "nombre_materia": "ELECTRONICA DE POTENCIA",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "3",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "MORA NU\u00d1EZ, AZAEL DE JESUS",
+        "horario": [
+            "1900-2055"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDT"
+        ],
+        "aula": [
+            "A003"
+        ]
+    },
+    {
+        "nrc": "89126",
+        "clave_materia": "I9880",
+        "nombre_materia": "ESTADISTICA Y PROCESOS ESTOCASTICOS",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "35",
+        "cupos_disponibles": "2",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "ELIZALDE CAMINO, FERNANDO",
+        "horario": [
+            "0900-1255"
+        ],
+        "dias": [
+            ". . . . V ."
+        ],
+        "edificio": [
+            "DEDU"
+        ],
+        "aula": [
+            "A010"
+        ]
+    },
+    {
+        "nrc": "91267",
+        "clave_materia": "I9881",
+        "nombre_materia": "METODOS MATEMATICOS I",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "40",
+        "cupos_disponibles": "6",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "VAZQUEZ BEAZ, RICARDO",
+        "horario": [
+            "1500-1655"
+        ],
+        "dias": [
+            "L . I . . ."
+        ],
+        "edificio": [
+            "DEDV"
+        ],
+        "aula": [
+            "A013"
+        ]
+    },
+    {
+        "nrc": "113989",
+        "clave_materia": "I9881",
+        "nombre_materia": "METODOS MATEMATICOS I",
+        "seccion": "D02",
+        "creditos": "8",
+        "cupos": "40",
+        "cupos_disponibles": "3",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "horario": [
+            "1100-1255"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A021"
+        ]
+    },
+    {
+        "nrc": "144539",
+        "clave_materia": "I9881",
+        "nombre_materia": "METODOS MATEMATICOS I",
+        "seccion": "D03",
+        "creditos": "8",
+        "cupos": "40",
+        "cupos_disponibles": "31",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "SANCHEZ ALVAREZ, MIGUEL",
+        "horario": [
+            "1500-1655"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDU"
+        ],
+        "aula": [
+            "A022"
+        ]
+    },
+    {
+        "nrc": "92338",
+        "clave_materia": "I9883",
+        "nombre_materia": "METODOS MATEMATICOS II",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "35",
+        "cupos_disponibles": "24",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "horario": [
+            "1500-1655"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDU"
+        ],
+        "aula": [
+            "A013"
+        ]
+    },
+    {
+        "nrc": "120264",
+        "clave_materia": "I9883",
+        "nombre_materia": "METODOS MATEMATICOS II",
+        "seccion": "D02",
+        "creditos": "8",
+        "cupos": "17",
+        "cupos_disponibles": "1",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "CORTES NAVARRO, LAURA ESTHER",
+        "horario": [
+            "1700-1855",
+            "1700-1855"
+        ],
+        "dias": [
+            "L . . . . .",
+            ". . I . . ."
+        ],
+        "edificio": [
+            "DEDV",
+            "DEDV"
+        ],
+        "aula": [
+            "A002",
+            "A004"
+        ]
+    },
+    {
+        "nrc": "138659",
+        "clave_materia": "I9883",
+        "nombre_materia": "METODOS MATEMATICOS II",
+        "seccion": "D03",
+        "creditos": "8",
+        "cupos": "35",
+        "cupos_disponibles": "1",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "HERRERA PE\u00d1A, KARLA GABRIELA",
+        "horario": [
+            "1100-1255"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A022"
+        ]
+    },
+    {
+        "nrc": "111399",
+        "clave_materia": "I9885",
+        "nombre_materia": "METODOS MATEMATICOS III",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "40",
+        "cupos_disponibles": "3",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "GONZALEZ OCHOA, HECTOR OCTAVIO",
+        "horario": [
+            "0900-1055"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A022"
+        ]
+    },
+    {
+        "nrc": "125307",
+        "clave_materia": "I9885",
+        "nombre_materia": "METODOS MATEMATICOS III",
+        "seccion": "D02",
+        "creditos": "8",
+        "cupos": "35",
+        "cupos_disponibles": "21",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "MEJIA MARIN, MARIA ESTHER",
+        "horario": [
+            "1700-1855"
+        ],
+        "dias": [
+            ". . I . V ."
+        ],
+        "edificio": [
+            "DEDR"
+        ],
+        "aula": [
+            "A002"
+        ]
+    },
+    {
+        "nrc": "119916",
+        "clave_materia": "I9905",
+        "nombre_materia": "MODELADO Y SIMULACION DE SISTEMAS",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "6",
+        "cupos_disponibles": "5",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "SANCHEZ NAJERA, ABEL ISAI",
+        "horario": [
+            "1900-2055"
+        ],
+        "dias": [
+            "L . I . . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A010"
+        ]
+    },
+    {
+        "nrc": "153363",
+        "clave_materia": "I9905",
+        "nombre_materia": "MODELADO Y SIMULACION DE SISTEMAS",
+        "seccion": "D02",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "7",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "SANCHEZ ESTRADA, JAIRO CAIN",
+        "horario": [
+            "0900-1055"
+        ],
+        "dias": [
+            "L . I . . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A011"
+        ]
+    },
+    {
+        "nrc": "159303",
+        "clave_materia": "I9905",
+        "nombre_materia": "MODELADO Y SIMULACION DE SISTEMAS",
+        "seccion": "D03",
+        "creditos": "8",
+        "cupos": "20",
+        "cupos_disponibles": "4",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "JIMENEZ MORA, JOSE MANUEL",
+        "horario": [
+            "1300-1455"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A014"
+        ]
+    },
+    {
+        "nrc": "141265",
+        "clave_materia": "I9891",
+        "nombre_materia": "PROCESAMIENTO DIGITAL DE SE\u00d1ALES",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "11",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "SANTOS ARCE, STEWART RENE",
+        "horario": [
+            "1300-1455",
+            "1500-1655"
+        ],
+        "dias": [
+            ". . . . V .",
+            "L . . . . ."
+        ],
+        "edificio": [
+            "DEDT",
+            "DEDT"
+        ],
+        "aula": [
+            "A019",
+            "A019"
+        ]
+    },
+    {
+        "nrc": "89516",
+        "clave_materia": "I9887",
+        "nombre_materia": "PROGRAMACION",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "40",
+        "cupos_disponibles": "4",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "horario": [
+            "1900-2055"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A015"
+        ]
+    },
+    {
+        "nrc": "113990",
+        "clave_materia": "I9887",
+        "nombre_materia": "PROGRAMACION",
+        "seccion": "D02",
+        "creditos": "8",
+        "cupos": "40",
+        "cupos_disponibles": "3",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "horario": [
+            "1100-1255"
+        ],
+        "dias": [
+            "L . I . . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A001"
+        ]
+    },
+    {
+        "nrc": "145989",
+        "clave_materia": "I9887",
+        "nombre_materia": "PROGRAMACION",
+        "seccion": "D03",
+        "creditos": "8",
+        "cupos": "15",
+        "cupos_disponibles": "6",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "MORALES RAMIREZ, THELMA ISABEL",
+        "horario": [
+            "1500-1655"
+        ],
+        "dias": [
+            "L . I . . ."
+        ],
+        "edificio": [
+            "DUCT1"
+        ],
+        "aula": [
+            "LC10"
+        ]
+    },
+    {
+        "nrc": "120478",
+        "clave_materia": "I9892",
+        "nombre_materia": "PROGRAMACION DE SISTEMAS EMBEBIDOS",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "18",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "MU\u00d1OZ MENDOZA, LUIS FELIPE",
+        "horario": [
+            "1700-1855"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDR"
+        ],
+        "aula": [
+            "A002"
+        ]
+    },
+    {
+        "nrc": "114818",
+        "clave_materia": "I9894",
+        "nombre_materia": "PROGRAMACION DE SISTEMAS RECONFIGURABLES",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "16",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "DURON GONZALEZ, MONICA JUDITH",
+        "horario": [
+            "0700-0855"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDT"
+        ],
+        "aula": [
+            "A011"
+        ]
+    },
+    {
+        "nrc": "120479",
+        "clave_materia": "I9892",
+        "nombre_materia": "PROGRAMACION DE SISTEMAS EMBEBIDOS",
+        "seccion": "D02",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "10",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "BELTRAN GONZALEZ, ANUAR BENJAMIN",
+        "horario": [
+            "1500-1655"
+        ],
+        "dias": [
+            "L . I . . ."
+        ],
+        "edificio": [
+            "DEDT"
+        ],
+        "aula": [
+            "A011"
+        ]
+    },
+    {
+        "nrc": "153764",
+        "clave_materia": "I9894",
+        "nombre_materia": "PROGRAMACION DE SISTEMAS RECONFIGURABLES",
+        "seccion": "D02",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "29",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "HERNANDEZ HERNANDEZ, HECTOR",
+        "horario": [
+            "0700-0855"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDT"
+        ],
+        "aula": [
+            "A019"
+        ]
+    },
+    {
+        "nrc": "158797",
+        "clave_materia": "I9892",
+        "nombre_materia": "PROGRAMACION DE SISTEMAS EMBEBIDOS",
+        "seccion": "D03",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "12",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "JIMENEZ MORA, JOSE MANUEL",
+        "horario": [
+            "0900-1055"
+        ],
+        "dias": [
+            ". . I . V ."
+        ],
+        "edificio": [
+            "DEDT"
+        ],
+        "aula": [
+            "A015"
+        ]
+    },
+    {
+        "nrc": "154483",
+        "clave_materia": "I9894",
+        "nombre_materia": "PROGRAMACION DE SISTEMAS RECONFIGURABLES",
+        "seccion": "D03",
+        "creditos": "8",
+        "cupos": "20",
+        "cupos_disponibles": "9",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "VENTURA NU\u00d1EZ, MARIA PATRICIA",
+        "horario": [
+            "1900-2055"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDR"
+        ],
+        "aula": [
+            "LC06"
+        ]
+    },
+    {
+        "nrc": "154486",
+        "clave_materia": "I9896",
+        "nombre_materia": "REDES PARA CIRCUITOS ELECTRONICOS",
+        "seccion": "D02",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "8",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "CAMPOS VILLARREAL, RODRIGO ANTONIO",
+        "horario": [
+            "0900-1055",
+            "0900-1055"
+        ],
+        "dias": [
+            "L . . . . .",
+            ". . I . . ."
+        ],
+        "edificio": [
+            "DEDT",
+            "DEDT"
+        ],
+        "aula": [
+            "A019",
+            "A019"
+        ]
+    },
+    {
+        "nrc": "145992",
+        "clave_materia": "I9910",
+        "nombre_materia": "ROBOTICA MOVIL",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "15",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "HERNANDEZ BARRAGAN, JOSE DE JESUS",
+        "horario": [
+            "1700-1855"
+        ],
+        "dias": [
+            "L . I . . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A003"
+        ]
+    },
+    {
+        "nrc": "103853",
+        "clave_materia": "I9884",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE METODOS MATEMATICOS II",
+        "seccion": "D01",
+        "creditos": "5",
+        "cupos": "35",
+        "cupos_disponibles": "3",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "HUERTA CISNEROS, FEDERICO ANTONIO",
+        "horario": [
+            "1700-1855"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDT"
+        ],
+        "aula": [
+            "A024"
+        ]
+    },
+    {
+        "nrc": "84602",
+        "clave_materia": "I9888",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE PROGRAMACION",
+        "seccion": "D01",
+        "creditos": "5",
+        "cupos": "24",
+        "cupos_disponibles": "5",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "HERRERA LUJAN, ZOILA LILIANA",
+        "horario": [
+            "1700-1855"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DUCT1"
+        ],
+        "aula": [
+            "LC07"
+        ]
+    },
+    {
+        "nrc": "133339",
+        "clave_materia": "I9893",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE PROGRAMACION DE SISTEMAS EMBEBIDOS",
+        "seccion": "D01",
+        "creditos": "5",
+        "cupos": "20",
+        "cupos_disponibles": "11",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "CHAVEZ MARTINEZ, EHECATL JOEL",
+        "horario": [
+            "1700-1855"
+        ],
+        "dias": [
+            "L . I . . ."
+        ],
+        "edificio": [
+            "DEDT"
+        ],
+        "aula": [
+            "A011"
+        ]
+    },
+    {
+        "nrc": "143403",
+        "clave_materia": "I9899",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE SENSORES Y ACONDICIONAMIENTO DE SE\u00d1ALES",
+        "seccion": "D01",
+        "creditos": "5",
+        "cupos": "20",
+        "cupos_disponibles": "17",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "CASTILLO SERRANO, OSCAR EDUARDO",
+        "horario": [
+            "1700-1855"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDT"
+        ],
+        "aula": [
+            "A020"
+        ]
+    },
+    {
+        "nrc": "120295",
+        "clave_materia": "I9901",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE CONTROL I",
+        "seccion": "D01",
+        "creditos": "5",
+        "cupos": "25",
+        "cupos_disponibles": "8",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "JIMENEZ MORA, JOSE MANUEL",
+        "horario": [
+            "1100-1255"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A020"
+        ]
+    },
+    {
+        "nrc": "124875",
+        "clave_materia": "I9906",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE MODELADO Y SIMULACION DE SISTEMAS",
+        "seccion": "D01",
+        "creditos": "5",
+        "cupos": "10",
+        "cupos_disponibles": "5",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "SANCHEZ NAJERA, ABEL ISAI",
+        "horario": [
+            "1900-2055"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A006"
+        ]
+    },
+    {
+        "nrc": "125306",
+        "clave_materia": "I9884",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE METODOS MATEMATICOS II",
+        "seccion": "D02",
+        "creditos": "5",
+        "cupos": "40",
+        "cupos_disponibles": "3",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "HERNANDEZ MONTELONGO, ROSAURA",
+        "horario": [
+            "0900-1055"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A018"
+        ]
+    },
+    {
+        "nrc": "113992",
+        "clave_materia": "I9888",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE PROGRAMACION",
+        "seccion": "D02",
+        "creditos": "5",
+        "cupos": "24",
+        "cupos_disponibles": "7",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "ORTEGA SANCHEZ, NOE",
+        "horario": [
+            "1700-1855"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A011"
+        ]
+    },
+    {
+        "nrc": "143394",
+        "clave_materia": "I9893",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE PROGRAMACION DE SISTEMAS EMBEBIDOS",
+        "seccion": "D02",
+        "creditos": "5",
+        "cupos": "20",
+        "cupos_disponibles": "-2",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "MORA NU\u00d1EZ, AZAEL DE JESUS",
+        "horario": [
+            "1300-1455"
+        ],
+        "dias": [
+            "L . I . . ."
+        ],
+        "edificio": [
+            "DEDR"
+        ],
+        "aula": [
+            "LC07"
+        ]
+    },
+    {
+        "nrc": "120482",
+        "clave_materia": "I9901",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE CONTROL I",
+        "seccion": "D02",
+        "creditos": "5",
+        "cupos": "25",
+        "cupos_disponibles": "23",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "REYES BARRERA, LUZ MARINA",
+        "horario": [
+            "1500-1655"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A013"
+        ]
+    },
+    {
+        "nrc": "132019",
+        "clave_materia": "I9906",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE MODELADO Y SIMULACION DE SISTEMAS",
+        "seccion": "D02",
+        "creditos": "5",
+        "cupos": "30",
+        "cupos_disponibles": "1",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "GOMEZ ANAYA, DAVID ALEJANDRO",
+        "horario": [
+            "1100-1255"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A010"
+        ]
+    },
+    {
+        "nrc": "132005",
+        "clave_materia": "I9888",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE PROGRAMACION",
+        "seccion": "D03",
+        "creditos": "5",
+        "cupos": "21",
+        "cupos_disponibles": "2",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "COVARRUBIAS QUI\u00d1ONES, SANDRA ELIZABETH",
+        "horario": [
+            "0700-0855"
+        ],
+        "dias": [
+            ". . I . V ."
+        ],
+        "edificio": [
+            "DUCT1"
+        ],
+        "aula": [
+            "LC02"
+        ]
+    },
+    {
+        "nrc": "158798",
+        "clave_materia": "I9893",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE PROGRAMACION DE SISTEMAS EMBEBIDOS",
+        "seccion": "D03",
+        "creditos": "5",
+        "cupos": "20",
+        "cupos_disponibles": "2",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "JIMENEZ MORA, JOSE MANUEL",
+        "horario": [
+            "1100-1255"
+        ],
+        "dias": [
+            ". . I . V ."
+        ],
+        "edificio": [
+            "DEDT"
+        ],
+        "aula": [
+            "A010"
+        ]
+    },
+    {
+        "nrc": "132006",
+        "clave_materia": "I9888",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE PROGRAMACION",
+        "seccion": "D04",
+        "creditos": "5",
+        "cupos": "20",
+        "cupos_disponibles": "3",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "BACILIO NAVARRO, HECTOR MISAEL",
+        "horario": [
+            "0700-0855"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DUCT2"
+        ],
+        "aula": [
+            "LC04"
+        ]
+    },
+    {
+        "nrc": "145998",
+        "clave_materia": "I9888",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE PROGRAMACION",
+        "seccion": "D05",
+        "creditos": "5",
+        "cupos": "20",
+        "cupos_disponibles": "14",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "VAZQUEZ NAREZ, ALMA GLORIA",
+        "horario": [
+            "1500-1655"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DUCT1"
+        ],
+        "aula": [
+            "LC07"
+        ]
+    },
+    {
+        "nrc": "132018",
+        "clave_materia": "I9879",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE ALGORITMIA",
+        "seccion": "D02",
+        "creditos": "5",
+        "cupos": "13",
+        "cupos_disponibles": "8",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "LANDA HORTA, DANIEL OMAR",
+        "horario": [
+            "1900-2055"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DUCT2"
+        ],
+        "aula": [
+            "LC05"
+        ]
+    },
+    {
+        "nrc": "138656",
+        "clave_materia": "I9879",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE ALGORITMIA",
+        "seccion": "D03",
+        "creditos": "5",
+        "cupos": "20",
+        "cupos_disponibles": "5",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "SENCION ECHAURI, FELIPE",
+        "horario": [
+            "1100-1455"
+        ],
+        "dias": [
+            ". . . . V ."
+        ],
+        "edificio": [
+            "DUCT2"
+        ],
+        "aula": [
+            "LC07"
+        ]
+    },
+    {
+        "nrc": "145995",
+        "clave_materia": "I9879",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE ALGORITMIA",
+        "seccion": "D04",
+        "creditos": "5",
+        "cupos": "20",
+        "cupos_disponibles": "2",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "DAVALOS BOITES, MICHEL",
+        "horario": [
+            "1100-1455"
+        ],
+        "dias": [
+            ". . . . V ."
+        ],
+        "edificio": [
+            "DUCT2"
+        ],
+        "aula": [
+            "LC05"
+        ]
+    },
+    {
+        "nrc": "90532",
+        "clave_materia": "I9882",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE METODOS MATEMATICOS I",
+        "seccion": "D01",
+        "creditos": "5",
+        "cupos": "40",
+        "cupos_disponibles": "35",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "RODRIGUEZ GUTIERREZ, JORGE LUIS",
+        "horario": [
+            "1700-1855"
+        ],
+        "dias": [
+            "L . I . . ."
+        ],
+        "edificio": [
+            "DEDU"
+        ],
+        "aula": [
+            "A016"
+        ]
+    },
+    {
+        "nrc": "120484",
+        "clave_materia": "I9886",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE METODOS MATEMATICOS III",
+        "seccion": "D01",
+        "creditos": "5",
+        "cupos": "40",
+        "cupos_disponibles": "4",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "ZAMARRIPA RODRIGUEZ, JOSE CARLOS",
+        "horario": [
+            "1100-1255"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDU"
+        ],
+        "aula": [
+            "A023"
+        ]
+    },
+    {
+        "nrc": "113991",
+        "clave_materia": "I9882",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE METODOS MATEMATICOS I",
+        "seccion": "D02",
+        "creditos": "5",
+        "cupos": "40",
+        "cupos_disponibles": "6",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "GONZALEZ SOLIS, FERNANDO RENAN",
+        "horario": [
+            "0900-1055",
+            "0900-1055"
+        ],
+        "dias": [
+            ". M . . . .",
+            ". . . J . ."
+        ],
+        "edificio": [
+            "DEDV",
+            "DEDU"
+        ],
+        "aula": [
+            "A014",
+            "A017"
+        ]
+    },
+    {
+        "nrc": "123584",
+        "clave_materia": "I9882",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE METODOS MATEMATICOS I",
+        "seccion": "D03",
+        "creditos": "5",
+        "cupos": "40",
+        "cupos_disponibles": "8",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "HERNANDEZ ARELLANO, ANGELICA FABIOLA",
+        "horario": [
+            "1700-1855"
+        ],
+        "dias": [
+            "L . I . . ."
+        ],
+        "edificio": [
+            "DEDU"
+        ],
+        "aula": [
+            "A007"
+        ]
+    },
+    {
+        "nrc": "141291",
+        "clave_materia": "I9886",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE METODOS MATEMATICOS III",
+        "seccion": "D03",
+        "creditos": "5",
+        "cupos": "35",
+        "cupos_disponibles": "10",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "JIMENEZ SERRANO, EDUVIGES",
+        "horario": [
+            "1500-1655",
+            "1700-1855"
+        ],
+        "dias": [
+            ". . . . V .",
+            ". . I . . ."
+        ],
+        "edificio": [
+            "DEDR",
+            "DEDR"
+        ],
+        "aula": [
+            "A003",
+            "A004"
+        ]
+    },
+    {
+        "nrc": "114819",
+        "clave_materia": "I9895",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE PROGRAMACION DE SISTEMAS RECONFIGURABLES",
+        "seccion": "D01",
+        "creditos": "5",
+        "cupos": "20",
+        "cupos_disponibles": "10",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "VENTURA NU\u00d1EZ, MARIA PATRICIA",
+        "horario": [
+            "1700-1855"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDR"
+        ],
+        "aula": [
+            "LC06"
+        ]
+    },
+    {
+        "nrc": "154482",
+        "clave_materia": "I9895",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE PROGRAMACION DE SISTEMAS RECONFIGURABLES",
+        "seccion": "D02",
+        "creditos": "5",
+        "cupos": "20",
+        "cupos_disponibles": "0",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "CASTILLO SERRANO, OSCAR EDUARDO",
+        "horario": [
+            "1900-2055"
+        ],
+        "dias": [
+            "L . I . . ."
+        ],
+        "edificio": [
+            "DEDR"
+        ],
+        "aula": [
+            "LC05"
+        ]
+    },
+    {
+        "nrc": "120485",
+        "clave_materia": "I9897",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE REDES PARA CIRCUITOS ELECTRONICOS",
+        "seccion": "D01",
+        "creditos": "5",
+        "cupos": "30",
+        "cupos_disponibles": "22",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "HERNANDEZ RUIZ, CARLOS MANUEL",
+        "horario": [
+            "0800-1055"
+        ],
+        "dias": [
+            ". . . . V ."
+        ],
+        "edificio": [
+            "DEDT"
+        ],
+        "aula": [
+            "A003"
+        ]
+    },
+    {
+        "nrc": "141264",
+        "clave_materia": "I9897",
+        "nombre_materia": "SEMINARIO DE PROBLEMAS DE REDES PARA CIRCUITOS ELECTRONICOS",
+        "seccion": "D02",
+        "creditos": "5",
+        "cupos": "24",
+        "cupos_disponibles": "1",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "CASTILLO SERRANO, OSCAR EDUARDO",
+        "horario": [
+            "0800-1155"
+        ],
+        "dias": [
+            ". . . . V ."
+        ],
+        "edificio": [
+            "DEDN"
+        ],
+        "aula": [
+            "LE03"
+        ]
+    },
+    {
+        "nrc": "143401",
+        "clave_materia": "I9898",
+        "nombre_materia": "SENSORES Y ACONDICIONAMIENTO DE SE\u00d1ALES",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "22",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "GUZMAN CUELLAR, CLAUDIA VERONICA",
+        "horario": [
+            "0800-1155"
+        ],
+        "dias": [
+            ". . . . . S"
+        ],
+        "edificio": [
+            "DEDT"
+        ],
+        "aula": [
+            "A007"
+        ]
+    },
+    {
+        "nrc": "124877",
+        "clave_materia": "I9914",
+        "nombre_materia": "SISTEMAS INTELIGENTES II",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "15",
+        "cupos_disponibles": "6",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "VILLASE\u00d1OR PADILLA, CARLOS ALBERTO",
+        "horario": [
+            "1500-1655"
+        ],
+        "dias": [
+            "L . I . . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A007"
+        ]
+    },
+    {
+        "nrc": "159311",
+        "clave_materia": "I9914",
+        "nombre_materia": "SISTEMAS INTELIGENTES II",
+        "seccion": "D02",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "11",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "HERNANDEZ BARRAGAN, JOSE DE JESUS",
+        "horario": [
+            "0700-1055"
+        ],
+        "dias": [
+            "L . . . . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A019"
+        ]
+    },
+    {
+        "nrc": "103851",
+        "clave_materia": "I9913",
+        "nombre_materia": "SISTEMAS INTELIGENTES I",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "11",
+        "cupos_disponibles": "10",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "ZALDIVAR NAVARRO, DANIEL",
+        "horario": [
+            "1700-1855"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A018"
+        ]
+    },
+    {
+        "nrc": "153410",
+        "clave_materia": "I9913",
+        "nombre_materia": "SISTEMAS INTELIGENTES I",
+        "seccion": "D02",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "3",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "RIOS ARRA\u00d1AGA, JORGE DANIEL",
+        "horario": [
+            "1100-1255"
+        ],
+        "dias": [
+            "L . I . . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A014"
+        ]
+    },
+    {
+        "nrc": "138662",
+        "clave_materia": "I9915",
+        "nombre_materia": "SISTEMAS INTELIGENTES III",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "13",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "RIOS ARRA\u00d1AGA, JORGE DANIEL",
+        "horario": [
+            "1500-1655"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DUCT2"
+        ],
+        "aula": [
+            "LC10"
+        ]
+    },
+    {
+        "nrc": "146003",
+        "clave_materia": "I9916",
+        "nombre_materia": "SISTEMAS INTELIGENTES IV",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "10",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "HERNANDEZ BARRAGAN, JOSE DE JESUS",
+        "horario": [
+            "1500-1655"
+        ],
+        "dias": [
+            "L . I . . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A012"
+        ]
+    },
+    {
+        "nrc": "132020",
+        "clave_materia": "I9911",
+        "nombre_materia": "SISTEMAS ROBOTICOS I",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "20",
+        "cupos_disponibles": "9",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "GOMEZ AVILA, JAVIER ENRIQUE",
+        "horario": [
+            "1500-1655"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A012"
+        ]
+    },
+    {
+        "nrc": "153411",
+        "clave_materia": "I9911",
+        "nombre_materia": "SISTEMAS ROBOTICOS I",
+        "seccion": "D02",
+        "creditos": "8",
+        "cupos": "25",
+        "cupos_disponibles": "9",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "HERNANDEZ BARRAGAN, JOSE DE JESUS",
+        "horario": [
+            "0700-0855"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A008"
+        ]
+    },
+    {
+        "nrc": "138661",
+        "clave_materia": "I9912",
+        "nombre_materia": "SISTEMAS ROBOTICOS II",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "35",
+        "cupos_disponibles": "6",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "HERNANDEZ CASAS, ANGEL TONATIUH",
+        "horario": [
+            "1700-1855"
+        ],
+        "dias": [
+            "L . I . . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A007"
+        ]
+    },
+    {
+        "nrc": "92798",
+        "clave_materia": "I9907",
+        "nombre_materia": "TEORIA DE SISTEMAS I",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "5",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "SANCHEZ ESTRADA, JAIRO CAIN",
+        "horario": [
+            "1100-1255"
+        ],
+        "dias": [
+            "L . I . . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A018"
+        ]
+    },
+    {
+        "nrc": "80727",
+        "clave_materia": "I9908",
+        "nombre_materia": "TEORIA DE SISTEMAS II",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "3",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "JIMENEZ MORA, JOSE MANUEL",
+        "horario": [
+            "0700-0855"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A014"
+        ]
+    },
+    {
+        "nrc": "153414",
+        "clave_materia": "I9908",
+        "nombre_materia": "TEORIA DE SISTEMAS II",
+        "seccion": "D02",
+        "creditos": "8",
+        "cupos": "30",
+        "cupos_disponibles": "29",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "REYES BARRERA, LUZ MARINA",
+        "horario": [
+            "1300-1455"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A005"
+        ]
+    },
+    {
+        "nrc": "153416",
+        "clave_materia": "I9917",
+        "nombre_materia": "VISION ROBOTICA",
+        "seccion": "D01",
+        "creditos": "8",
+        "cupos": "29",
+        "cupos_disponibles": "0",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "LOPEZ FRANCO, CARLOS ALBERTO",
+        "horario": [
+            "0900-1055"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A001"
+        ]
+    },
+    {
+        "nrc": "153417",
+        "clave_materia": "I9917",
+        "nombre_materia": "VISION ROBOTICA",
+        "seccion": "D02",
+        "creditos": "8",
+        "cupos": "35",
+        "cupos_disponibles": "3",
+        "ciclo": "2019/01/16-2019/05/31",
+        "profesor": "GOMEZ AVILA, JAVIER ENRIQUE",
+        "horario": [
+            "1700-1855"
+        ],
+        "dias": [
+            ". M . J . ."
+        ],
+        "edificio": [
+            "DEDX"
+        ],
+        "aula": [
+            "A007"
+        ]
+    }
+]
